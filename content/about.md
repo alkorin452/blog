@@ -7,8 +7,8 @@ path = "about"
 
 ## Computer and Peripherals
 - Macbook M1 Pro
-	- This is long due for an upgrade. This started as a work laptop and has taken over as an "everything" laptop.
-    - I love it! 
+    - I love it! Although it's probably due for an upgrade soon. 
+    - This started as a work laptop and has taken over as an "everything" laptop.
 - MX Master S3
 	- This has become essential for how I work, it feels weird to use anything else.
 - Apple Magic Keyboard

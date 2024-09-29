@@ -1,5 +1,5 @@
 base_url = "/"
-title = "alkorin"
+title = "alkorin452"
 description = "This is an example description"
 
 build_search_index = false
@@ -13,7 +13,7 @@ highlight_code = true
 highlight_theme = "ayu-light"
 
 [extra]
-toc = true
+toc = false
 use_cdn = false
 favicon = "/icon/favicon.png"
 theme = "toggle"              # light, dark, auto, toggle

@@ -1,5 +1,5 @@
 base_url = "/"
-title = ""
+title = "Korin"
 description = "This is an example description"
 
 build_search_index = false

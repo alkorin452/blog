@@ -1,5 +1,5 @@
 +++
-title = "Personal Financial Systems: Introduction"
+title = "Personal Financial Systems Part 1: Introduction"
 date = "2024-09-28"
 slug = "personal-financial-systems-intro"
 +++
@@ -34,7 +34,6 @@ In order to understand what SHOULD be done, we need to understand what is curren
 # Single-Input System (Not Good)
 
 Most people think about their finances in a small scope. They may have a savings account, possibly a checking account, and may invest a couple hundred dollars into a 401k every now and then. In this type of set-up we have what I call a single-input system.
-
 
 
 ![Single-Input Financial System](/images/personal-financial-systems/single-input-system.png)
